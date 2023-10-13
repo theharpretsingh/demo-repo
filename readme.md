@@ -19,6 +19,6 @@ git clone
 
 _hello this is italy_
 
-~~ how are you ~~
+~~how are you~~
 
 > hello this is my quote
